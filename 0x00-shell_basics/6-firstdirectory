@@ -1,2 +1,2 @@
 #!/bin/bash
-mikdir -m 777 /tmp/my_first_directory/
+mikdir /tmp/my_first_directory/
